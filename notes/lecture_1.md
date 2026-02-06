@@ -220,7 +220,6 @@ If **AZ-a** fails, traffic can still go to **AZ-b / AZ-c**.
 
 ---
 
-If you want, I can turn this into a **1-page exam cheat sheet** (same content, tighter) + a **mini quiz** (10 MCQ + 5 short answers) based only on this lecture.
 
 [1]: https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html?utm_source=chatgpt.com "AWS Regions and Availability Zones"
 [2]: https://docs.aws.amazon.com/whitepapers/latest/aws-fault-isolation-boundaries/availability-zones.html?utm_source=chatgpt.com "Availability Zones - AWS Fault Isolation Boundaries"
